@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-UI-Animation-Motion-Design-Libraries/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-UI-Animation-Motion-Design-Libraries?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-UI-Animation-Motion-Design-Libraries/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-UI-Animation-Motion-Design-Libraries?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-UI-Animation-Motion-Design-Libraries/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-UI-Animation-Motion-Design-Libraries?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-UI-Animation-Motion-Design-Libraries/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -54,7 +54,7 @@ The global animation and motion design software sector is estimated at **$4.2B‚Ä
 
 Sorted in descending order by GitHub community stargazers (‚≠ê).
 
-| Project & Repository | Description | Stars |
+| Project & Repository | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Animate.css](https://github.com/animate-css/animate.css)** | Cross-browser CSS animation library providing plug-and-play attention seekers, bounces, fades, flippers, and slides for web interfaces. | [![Stars](https://img.shields.io/github/stars/animate-css/animate.css?style=social&color=white)](https://github.com/animate-css/animate.css/stargazers) |
 | **[Anime.js](https://github.com/juliangarnier/anime)** | Lightweight and flexible JavaScript animation engine supporting CSS properties, SVG morphing, DOM attributes, and synchronized timeline orchestration. | [![Stars](https://img.shields.io/github/stars/juliangarnier/anime?style=social&color=white)](https://github.com/juliangarnier/anime/stargazers) |
